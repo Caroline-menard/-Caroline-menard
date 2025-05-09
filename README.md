@@ -1,5 +1,9 @@
 # -Caroline-menard
-## 👋 Salut, moi c’est Caroline
+<p align="right">
+  <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="160">
+</p>
+
+### 👋 Salut, moi c’est Caroline
 
 J’ai d’abord enseigné les mathématiques avant de plonger dans l’univers fascinant des données.  
 
