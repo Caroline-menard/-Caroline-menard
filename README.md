@@ -32,11 +32,11 @@ Résultats explorables dans un dashboard, avec filtres, graphiques et export de 
 
 ## Compétences mobilisées dans ce projet
 *Traitement automatique du langage (NLP) :*
-> — Nettoyage et préparation de texte, TfidfVectorizer, Réduction de dimension avec TruncatedSVD.
+> - Nettoyage et préparation de texte, TfidfVectorizer, Réduction de dimension avec TruncatedSVD.
 
 *Machine Learning multi-label :*
-> — Construction d’un pipeline scikit-learn modulaire.<br>
-> —  Entraînement et validation croisée (GridSearchCV).
+> - Construction d’un pipeline scikit-learn modulaire.<br>
+> -  Entraînement et validation croisée (GridSearchCV).
 
 *Feature engineering :*
 > - Création de features via FunctionTransformer<br>
