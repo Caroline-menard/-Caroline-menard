@@ -19,3 +19,11 @@ Explorer, apprendre, rater, réussir : ici, tout est prétexte à progresser.
 > — Albert Einstein
 
 Bienvenue dans mon monde mi-algo, mi-poésie...
+
+## 1- Amazon Review Classifier & Dashboard
+
+👉 [Découvrir le projet sur GitHub](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard)
+
+**Classification** automatique d’avis clients et visualisation interactive via **Streamlit**.
+Ce projet NLP détecte plusieurs typologies de problèmes dans des revues Amazon (produit endommagé, non conforme, etc.) grâce à une pipeline combinant TF-IDF, features sémantiques, et XGBoost.
+Résultats explorables dans un dashboard, avec filtres, graphiques et export de données.
