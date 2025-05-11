@@ -39,27 +39,27 @@ Résultats explorables dans un dashboard, avec filtres, graphiques et export de 
 > —  Entraînement et validation croisée (GridSearchCV).
 
 *Feature engineering :*
-> — Création de features via FunctionTransformer<br>
-> — classes personnalisées de preprocessing et post-processing.
+> - Création de features via FunctionTransformer<br>
+> - classes personnalisées de preprocessing et post-processing.
 
 *Manipulation de données:*
-> — Avec pandas,numpy <br>
-> — Fichiers parquet optimisés pour le stockage.
+> - Avec pandas,numpy <br>
+> - Fichiers parquet optimisés pour le stockage.
 
 *Data Engineering (light) :*
-> — Interaction avec une base PostgreSQL hébergée sur Supabase.<br>
-> —  Scripts d’ETL pour l’insertion et la mise à jour des prédictions.
+> - Interaction avec une base PostgreSQL hébergée sur Supabase.<br>
+> -  Scripts d’ETL pour l’insertion et la mise à jour des prédictions.
 
 *Visualisation et restitution interactive :*
-> — Création d’un dashboard interactif Streamlit.<br>
-> — Visualisation de résultats, filtres dynamiques, export de données.
+> - Création d’un dashboard interactif Streamlit.<br>
+> - Visualisation de résultats, filtres dynamiques, export de données.
 
 *Déploiement :*
-> — Hébergement du dashboard sur Streamlit Cloud.<br>
-> — Optimisation des requirements.txt pour la compatibilité serveur.
+> - Hébergement du dashboard sur Streamlit Cloud.<br>
+> - Optimisation des requirements.txt pour la compatibilité serveur.
 
 *Organisation projet / bonnes pratiques :*
-> — Modularisation des scripts (prediction, ETL, orchestration).<br>
-> —  .gitignore propre, README détaillé, visualisation d’architecture.<br>
-> — Référencement clair des dépendances et workflow reproductible.<br>
+> - Modularisation des scripts (prediction, ETL, orchestration).<br>
+> -  .gitignore propre, README détaillé, visualisation d’architecture.<br>
+> - Référencement clair des dépendances et workflow reproductible.<br>
 > - 🧘 Patience et ténacité, indispensables pour dompter les caprices de Streamlit Cloud à 2h du mat’.
