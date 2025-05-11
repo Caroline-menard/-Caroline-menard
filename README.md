@@ -20,7 +20,7 @@ Explorer, apprendre, rater, réussir : ici, tout est prétexte à progresser.
 
 Bienvenue dans mon monde mi-algo, mi-poésie...
 
-## 1- Amazon Review Classifier & Dashboard
+# 1- Amazon Review Classifier & Dashboard
 
 👉 [Découvrir le projet sur GitHub](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard)
 
@@ -29,3 +29,36 @@ Bienvenue dans mon monde mi-algo, mi-poésie...
 Ce projet NLP détecte plusieurs typologies de problèmes dans des revues Amazon (produit endommagé, non conforme, etc.) grâce à une pipeline combinant TF-IDF, features sémantiques, et XGBoost.
 
 Résultats explorables dans un dashboard, avec filtres, graphiques et export de données.
+
+## Compétences mobilisées dans ce projet
+*Traitement automatique du langage (NLP) :*
+> — Nettoyage et préparation de texte, TfidfVectorizer, Réduction de dimension avec TruncatedSVD.
+
+*Machine Learning multi-label :*
+> — Construction d’un pipeline scikit-learn modulaire.<br>
+> —  Entraînement et validation croisée (GridSearchCV).
+
+*Feature engineering :*
+> — Création de features via FunctionTransformer<br>
+> — classes personnalisées de preprocessing et post-processing.
+
+*Manipulation de données:*
+> — Avec pandas,numpy <br>
+> — Fichiers parquet optimisés pour le stockage.
+
+*Data Engineering (light) :*
+> — Interaction avec une base PostgreSQL hébergée sur Supabase.<br>
+> —  Scripts d’ETL pour l’insertion et la mise à jour des prédictions.
+
+*Visualisation et restitution interactive :*
+> — Création d’un dashboard interactif Streamlit.<br>
+> — Visualisation de résultats, filtres dynamiques, export de données.
+
+*Déploiement :*
+> — Hébergement du dashboard sur Streamlit Cloud.<br>
+> — Optimisation des requirements.txt pour la compatibilité serveur.
+
+*Organisation projet / bonnes pratiques :*
+> — Modularisation des scripts (prediction, ETL, orchestration).<br>
+> —  .gitignore propre, README détaillé, visualisation d’architecture.<br>
+> — Référencement clair des dépendances et workflow reproductible.
