@@ -61,4 +61,5 @@ Résultats explorables dans un dashboard, avec filtres, graphiques et export de 
 *Organisation projet / bonnes pratiques :*
 > — Modularisation des scripts (prediction, ETL, orchestration).<br>
 > —  .gitignore propre, README détaillé, visualisation d’architecture.<br>
-> — Référencement clair des dépendances et workflow reproductible.
+> — Référencement clair des dépendances et workflow reproductible.<br>
+> - 🧘 Patience et ténacité, indispensables pour dompter les caprices de Streamlit Cloud à 2h du mat’.
