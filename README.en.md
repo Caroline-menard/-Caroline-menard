@@ -3,7 +3,7 @@
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="160">
 </p>
 
-🇫🇷 [Version Francaise](https://github.com/Caroline-menard/-Caroline-menard/blob/main/README.md)
+👉🇫🇷 [Version Francaise](https://github.com/Caroline-menard/-Caroline-menard/blob/main/README.md)
 
 ### 👋 Hi, I'm Caroline
 
