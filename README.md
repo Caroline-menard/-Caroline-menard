@@ -3,6 +3,8 @@
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="160">
 </p>
 
+👉🇬🇧 [English Version](https://github.com/Caroline-menard/-Caroline-menard/blob/main/README.en.md)
+
 ### 👋 Salut, moi c’est Caroline
 
 J’ai d’abord enseigné les mathématiques avant de plonger dans l’univers fascinant des données.  
