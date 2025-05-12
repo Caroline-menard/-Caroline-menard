@@ -5,6 +5,8 @@
 
 👉🇫🇷 [Version Francaise](https://github.com/Caroline-menard/-Caroline-menard/blob/main/README.md)
 
+---
+
 ### 👋 Hi, I'm Caroline
 
 I started out teaching mathematics before diving into the fascinating world of data.
@@ -22,6 +24,8 @@ Exploring, learning, failing, succeeding: here, everything is a reason to grow.
   >  — Albert Einstein
 
 Welcome to my world — part algorithm, part poetry...
+
+---
 
 # 1- Amazon Review Classifier & Dashboard
 
