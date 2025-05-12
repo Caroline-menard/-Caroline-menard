@@ -1,9 +1,11 @@
-# -Caroline-menard
+# Caroline-menard
 <p align="right">
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="160">
 </p>
 
 👉🇬🇧 [English Version](https://github.com/Caroline-menard/-Caroline-menard/blob/main/README.en.md)
+
+---
 
 ### 👋 Salut, moi c’est Caroline
 
@@ -22,6 +24,7 @@ Explorer, apprendre, rater, réussir : ici, tout est prétexte à progresser.
 
 Bienvenue dans mon monde mi-algo, mi-poésie...
 
+---
 # 1- Amazon Review Classifier & Dashboard
 
 👉 [Découvrir le projet sur GitHub](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard)
