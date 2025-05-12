@@ -23,7 +23,9 @@ Bienvenue dans mon monde mi-algo, mi-poésie...
 # 1- Amazon Review Classifier & Dashboard
 
 👉 [Découvrir le projet sur GitHub](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard)
+
 Language:
+
 ➡️ 🇬🇧 [README English version](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard/blob/main/README.en.md)  
 ➡️ 🇫🇷 [README Version française](https://github.com/Caroline-menard/amazon_review_classifier_and_Dashboard/blob/main/README.md)
 
