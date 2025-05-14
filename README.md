@@ -87,7 +87,7 @@ Language:
 ➡️ 🇫🇷 [README Version française](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.md)
 
 Petit dashboard Streamlit conçu pour simuler un **outil d’analyse d’activité client**, développé à partir d’un cas réel en environnement B2B.
-Les données ont été générées synthétiquement pour des raisons de confidentialité, mais l’application reproduit fidèlement les usages :
+Les données ont été **générées synthétiquement**, le **code massivement retouché**,  pour des raisons de confidentialité, mais l’application reproduit fidèlement les usages :
 suivi d’activité, détection de signaux faibles, export de données, et génération automatique de rapports PDF pour des équipes client.
 
 Pensé pour les **Customer Success Managers**, **responsables clients** ou **chargés de l’onboarding**, ce projet illustre comment exploiter des logs minimalistes pour mieux comprendre les besoins des utilisateurs — tout en préservant leur intimité.
