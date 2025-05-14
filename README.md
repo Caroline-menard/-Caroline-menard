@@ -74,3 +74,27 @@ Résultats explorables dans un dashboard, avec filtres, graphiques et export de 
 > -  .gitignore propre, README détaillé, visualisation d’architecture.<br>
 > - Référencement clair des dépendances et workflow reproductible.<br>
 > - 🧘 Patience et ténacité, indispensables pour dompter les caprices de Streamlit Cloud à 2h du mat’.
+
+____
+
+# 2. Customer Insight Dashboard (synthetic data)
+
+👉 [Découvrir le projet sur GitHub](https://github.com/Caroline-menard/Customer-insight-dashboard)
+
+Language:
+
+➡️ 🇬🇧 [README English version](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.en.md)  
+➡️ 🇫🇷 [README Version française](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.md)
+
+Petit dashboard Streamlit conçu pour simuler un **outil d’analyse d’activité client**, développé à partir d’un cas réel en environnement B2B.
+Les données ont été générées synthétiquement pour des raisons de confidentialité, mais l’application reproduit fidèlement les usages :
+suivi d’activité, détection de signaux faibles, export de données, et génération automatique de rapports PDF pour des équipes client.
+
+Pensé pour les **Customer Success Managers**, **responsables clients** ou **chargés de l’onboarding**, ce projet illustre comment exploiter des logs minimalistes pour mieux comprendre les besoins des utilisateurs — tout en préservant leur intimité.
+
+## Compétences mobilisées dans ce projet et enjeux
+
+> - Adapter une interface à un public non technique, en construisant un dashboard **clair**, **ergonomique**, et **axé métier.**
+> - Optimiser les **connexions aux APIs** grâce à un système de rafraîchissement manuel et à la mise en cache locale des données au format .parquet
+> - Analyser les usages clients tout en préservant leur **confidentialité**, via des logs minimalistes et une approche éthique des données
+> - Générer un jeu de **données synthétique**, simulant des structures d’équipes et des profils utilisateur variés pour tester le dashboard de manière réaliste.
