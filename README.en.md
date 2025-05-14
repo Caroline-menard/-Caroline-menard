@@ -93,3 +93,28 @@ Results can be explored through a dashboard with filters, charts, and data expor
   > - Clear dependency management and reproducible workflow.<br>
 
   > - 🧘 Patience and perseverance — essential to tame Streamlit Cloud’s quirks at 2 a.m.
+
+___
+
+# 2. Customer Insight Dashboard (synthetic data)
+
+👉 [Check out the project on GitHub](https://github.com/Caroline-menard/Customer-insight-dashboard)
+
+Language:
+
+➡️ 🇬🇧 [README English version](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.en.md)  
+➡️ 🇫🇷 [README Version française](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.md)
+
+A lightweight Streamlit dashboard designed to simulate a **client activity analysis tool**, inspired by a real-world use case in a B2B environment.  
+The data has been **synthetically generated**, and the code **heavily modified** for confidentiality reasons — yet the app accurately reflects real usage scenarios:  
+activity tracking, early signal detection, data export, and automated PDF report generation for client teams.
+
+Targeted at **Customer Success Managers**, **Account Managers**, and **Onboarding Specialists**, this project illustrates how minimal log data can be used to better understand user needs — while preserving their privacy.
+
+## Skills & Key Challenges Addressed
+
+> - Designing an interface tailored for **non-technical users**, with a dashboard that is clear, ergonomic, and business-focused  
+> - Optimizing **API connections** using a manual refresh system and local caching of data in `.parquet` format  
+> - Analyzing client behavior while ensuring **data confidentiality**, through minimalistic logging and an ethical data-handling approach  
+> - Generating a **synthetic dataset** that simulates team structures and diverse user profiles to realistically test the dashboard
+
